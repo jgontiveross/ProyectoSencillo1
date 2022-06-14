@@ -1,0 +1,39 @@
+body{
+    background-color: coral;
+}
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#Fam{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+}
+
+.clase1{
+    color: blue;
+    font-style: italic;
+}
+
+a, img{
+    display: block;
+
+}
+
+a{
+    margin: 50px 20px;
+    text-decoration: none;
+    color: black;
+}
+/* para darle efecto al pasar el mouse*/
+a:hover{
+color: aqua;
+}
+
+img {
+    width: 25%;
+    margin: auto;
+}
